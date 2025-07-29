@@ -1,4 +1,4 @@
-// SPDX-License-Identifier:nit
+// SPDX-License-Identifier:n
 pragma solidity ^0.8.19;
 
 /**
