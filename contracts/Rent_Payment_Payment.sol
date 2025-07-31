@@ -1,4 +1,4 @@
-// SPDX-License-Identifier:
+// SPDX-License-Identifier:s
 pragma solidity ^0.8.19;
 
 /**
